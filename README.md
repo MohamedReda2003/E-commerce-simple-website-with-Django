@@ -20,7 +20,7 @@ This project is a highly efficient e-commerce website built using the Django fra
   ```
   python manage.py migrate
   ```
-  - ### Create a superuse for the admin panel:
+  - ### Create a superuser for the admin panel:
   ```
   python manage.py createsuperuser
   ```
@@ -29,7 +29,7 @@ This project is a highly efficient e-commerce website built using the Django fra
   python manage.py runserver
   ```
   #### Open the project in your preferred web browser.
-  (the used command are for Windows users)
+  (the used commands are for Windows users)
 
 
 #### And here we go!
